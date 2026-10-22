@@ -2,7 +2,7 @@
 
 **Data Engineer** | Azure, Databricks, Spark, SQL | Richmond, VA (open to relocation)
 
-[LinkedIn](https://www.linkedin.com/in/anumandla-muralidhar-reddy-070576241) · [Email](mailto:anumandlamuralidharreddy@gmail.com) · [Projects](https://github.com/Murali-152002/Data-engineering-My-Projects)
+[LinkedIn](https://www.linkedin.com/in/muralidhar-reddy-anumandla-070576241) · [Email](mailto:anumandlamuralidharreddy@gmail.com) · [Projects](https://github.com/Murali-152002/Data-engineering-My-Projects)
 
 > **Open to Data Engineer roles.** I build and support data pipelines on regulated healthcare data, and I like pipelines
 > that are boring to operate: rerunnable, tested, and easy to explain when they fail.
