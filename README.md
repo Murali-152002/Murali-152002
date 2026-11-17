@@ -1,6 +1,6 @@
 # Muralidhar Reddy Anumandla
 
-**Data Engineer | Azure, Databricks, Spark, SQL | Richmond, VA (open to relocation)**
+**Data Engineer |Testin|Debugging| Azure, Databricks, Spark, SQL | Richmond, VA (open to relocation)**
 
 [Portfolio](https://murali-152002.github.io/) · [Email](mailto:anumandlamuralidharreddy@gmail.com) · [All projects](https://github.com/Murali-152002/Data-engineering-My-Projects)
 
